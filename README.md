@@ -20,6 +20,7 @@ Bienvenido a mi perfil de GitHub.
 
 - [LinkedIn](https://www.linkedin.com/in/alej-caza7)
 - Email: (alejandrocazanobe@gmail.com)
+- Ubicación: Córdoba - Argentina
 
 ---
 
